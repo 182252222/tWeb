@@ -9,7 +9,7 @@ logging:
 spring:
     datasource:
         name: test
-        url: jdbc:mysql://183.62.219.203:3306/hitest
+        url: jdbc:mysql://18.62.29.2:3306/hitest
         username: root
         password: root
         # 使用druid数据源
